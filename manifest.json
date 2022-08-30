@@ -1,0 +1,13 @@
+{
+    "name": "Smile",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "smile_logo.png"
+    },
+    "icons": {
+        "128":"smile_logo.png"
+    },
+    "permissions": ["activeTab"]
+}

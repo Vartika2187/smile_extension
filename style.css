@@ -1,0 +1,34 @@
+body{
+    width: 400px;
+    height: 400px;
+    background-image: url(bk.gif);
+    
+}
+
+h4{
+    margin-top: 10px;
+    justify-content: center;
+    color: rgba(165, 248, 248, 0.603);
+    padding-left: 60px;
+    text-shadow: rgb(246, 247, 191);
+}
+
+div.img2{
+    margin-top:320px;
+    margin-left:320px;
+    position: fixed;
+}
+
+p{
+   
+    margin: 65px 10px;
+    font-size: 20px;
+    color: rgb(251, 43, 144);
+    border-radius: 6px;
+    border: 1px solid rgb(165, 219, 250);
+    background-color: aliceblue;
+    background-image: linear-gradient(rgba(248, 179, 212, 0.6),rgba(252, 252, 211, 0.611));
+    padding: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
